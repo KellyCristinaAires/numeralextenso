@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kelly\\Documents\\atividadespc1\\numeralextenso\\numeralextenso.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kelly\\Documents\\atividadespc1\\numeralextenso\\numeralextenso.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kelly\\Documents\\atividadespc1\\numeralextenso\\numeralextenso.csproj",
+        "projectName": "numeralextenso",
+        "projectPath": "C:\\Users\\kelly\\Documents\\atividadespc1\\numeralextenso\\numeralextenso.csproj",
+        "packagesPath": "C:\\Users\\kelly\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kelly\\Documents\\atividadespc1\\numeralextenso\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kelly\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Humanizer": {
+              "target": "Package",
+              "version": "[2.8.26, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
